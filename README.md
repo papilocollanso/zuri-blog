@@ -1,3 +1,4 @@
 # zuri-blog
-zuri blog
-model - Post
+- zuri blog
+
+- model - Post
